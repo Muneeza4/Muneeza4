@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muneeza Mehboob</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneeza4" alt="muneeza4" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muneeza4](https://github.com/Muneeza4)
