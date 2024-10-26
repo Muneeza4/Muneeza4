@@ -1,9 +1,6 @@
 
 ![Header](github-header-image.png)
 
-
-
-
 <h1 align="center">Hi 👋, I'm Muneeza Mehboob</h1>
 - 🌱 I’m currently learning **Data Science**
 
