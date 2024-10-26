@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **muneezamehboob3@gmail.com**
 
+- Medium Link: https://medium.com/@muneezamehboob3
+
 - 📄Resume Link [https://drive.google.com/file/d/1oGP_3cPrOVndtr-sa6eHTLJS9i_68fbK/view?usp=sharing](https://drive.google.com/file/d/1oGP_3cPrOVndtr-sa6eHTLJS9i_68fbK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
