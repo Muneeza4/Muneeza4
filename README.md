@@ -1,5 +1,5 @@
 
-![Header](github-header-image.png)
+![Header](github-header-image1.png)
 
 <h1 align="center">Hi 👋, I'm Muneeza Mehboob</h1>
 - 🌱 I’m currently learning **Data Science**
