@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **muneezamehboob3@gmail.com**
 
+- Medium: https://medium.com/@muneezamehboob3
+- Kaggle:  https://www.kaggle.com/muneeza3
+
 - Medium Link: https://medium.com/@muneezamehboob3
 
 - 📄Resume Link [https://drive.google.com/file/d/1oGP_3cPrOVndtr-sa6eHTLJS9i_68fbK/view?usp=sharing](https://drive.google.com/file/d/1oGP_3cPrOVndtr-sa6eHTLJS9i_68fbK/view?usp=sharing)
@@ -18,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muneeza mehboob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeza mehboob" height="30" width="40" /></a>
 <a href="https://instagram.com/muneeza.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeza.___" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
