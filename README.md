@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **muneezamehboob3@gmail.com**
 
-- Medium: https://medium.com/@muneezamehboob3
 - Kaggle:  https://www.kaggle.com/muneeza3
 
 - Medium Link: https://medium.com/@muneezamehboob3
